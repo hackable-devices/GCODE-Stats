@@ -1,0 +1,97 @@
+VERSION 1.9
+PROJECTLISTSTART
+..\C++\CppShellExtContextMenuHandler\Lisez-Moi.txt
+DESKTOPSHORTCUT: DISABLED
+MENUSHORTCUT: DISABLED
+WINDOWSSTARTUP: DISABLED
+SUBDIRECTORY: DISABLED
+ASKTORUN: DISABLED
+REGISTERASCOM: DISABLED
+RUNAFTERCOPY: DISABLED
+
+<User Selected Destination Directory>
+
+..\C++\x64\Release\CppShellExtContextMenuHandler.dll
+DESKTOPSHORTCUT: DISABLED
+MENUSHORTCUT: DISABLED
+WINDOWSSTARTUP: DISABLED
+SUBDIRECTORY: DISABLED
+ASKTORUN: DISABLED
+REGISTERASCOM: ENABLED
+RUNAFTERCOPY: DISABLED
+
+<User Selected Destination Directory>
+
+PROJECTLISTEND
+BITMAPNAMEENABLED: FALSE
+BITMAPNAME:
+..\C++\CppShellExtContextMenuHandler\splash_ckab.bmp
+MENUGROUPNAME: FALSE
+TEXTMENUGROUPNAME:
+MyApplicationName
+ENABLEENCRYPTION: FALSE
+CREATEUNINSTALL: TRUE
+FILEVERSION1:
+1
+FILEVERSION2:
+0
+FILEVERSION3:
+0
+FILEVERSION4:
+0
+FILECOMMENTS:
+
+FILECOMPANYNAME:
+
+FILEDESCRIPTION:
+
+FILECOPYRIGHT:
+
+TEXTWELCOMESTRINGENABLED: FALSE
+TEXTWELCOMESTRINGSTART:
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fcharset0 Arial;}}
+\viewkind4\uc1\pard\b\f0\fs24 CKAB - Estimateur de GCode.\b0\par
+\f1\fs20\par
+}
+
+TEXTWELCOMESTRINGEND:
+TEXTLICENSEAGREEMENTENABLED: TRUE
+TEXTLICENSEAGREEMENTSTART:
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033\deflangfe1033{\fonttbl{\f0\fswiss\fcharset0 ArialMT;}}
+{\colortbl ;\red38\green38\blue38;}
+\viewkind4\uc1\pard\cf1\f0\fs26 Ce logiciel est distribu\'e9 sous la licence Creative Commons (CC BY-NC-SA 3.0)\par
+Cette licence vous autorise \'e0 partager et remixer l'application ainsi que le\par
+code source de cette m\'eame application. Pas d'usage commercial.\par
+Lien vers la licence Creative Commons (CC BY-NC-SA 3.0) : http://creativecommons.org/licenses/by-nc-sa/3.0/deed.fr\par
+\par
+\'a9CKAB - \'a9Hackable Devices - 2013\par
+}
+
+TEXTLICENSEAGREEMENTEND:
+TEXTSUBDIRECTORY:
+Estimateur GCode
+DEFAULTUSERROOTINSTALLATIONDIRECTORY:
+<Program Files>
+LASTADDFILEPROJECTDIRECTORY
+C:\Users\julienmoreau-mathis\gcode_dll\C%2b%2b Windows Shell context menu handler (CppShellExtContextMenuHandler)\C++\x64\Release
+FILEEXTENTIONANDFILELINKSTART
+FILEEXTENTIONANDFILELINKEND
+allowwin95: TRUE
+allowwin98: TRUE
+allowwinME: TRUE
+allowwinNT3: TRUE
+allowwinNT4: TRUE
+allowwin2000: TRUE
+allowwinXP: TRUE
+allowwin3000Server: TRUE
+allowwinVistaOrLonghorn: TRUE
+allowinteretExp5x: FALSE
+allowinteretExp6x: FALSE
+allowinteretExp7x: FALSE
+promptforreboot: FALSE
+LanguageString
+English
+REGISTRYENTRIESSTART
+REGISTRYENTRIESEND
+LASTFILELISTSORTOPTION
+0
